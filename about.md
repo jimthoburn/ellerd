@@ -23,19 +23,3 @@ Our clients range from small to medium sized businesses and represent a wide var
 ## Our Affiliations
 
 We have formed a large network of associates that are able to provide a many faceted and varied range of services, ranging from legal and insurance to mortgage lending and financial planning. Our affiliations and professional memberships are equally varied. We are members of the A.H.M.A., N.S.P.A. Better Business Bureau (BBB), we are licensed by CTEC and we are an authorized IRS E-File provider.
-
-## Our Services
-
-*   Tax Preparation & Planning.
-*   Payroll Services & Payroll Tax reporting
-*   Sales Tax & Property Tax Reporting
-*   New Business Start Up Procedures and Consulting Services
-*   Accounting & Bookkeeping
-*   Full Charge Bookkeeping Services including custom programs
-*   Full Payroll Services and 1099 Filings
-*   Reconstruction and Clean Up of Financial Records for Prior Years
-*   Tax Preparation and Planning
-*   Internal Business Audits for Forensic and Litigation Needs
-*   Payroll Audits and Review of Government Report Filings
-*   Federal and State Tax and Compliance Filings
-*   Quickbooks and Other Accounting Software Training and Support Assistance

@@ -330,6 +330,28 @@
       }
     }
 
+    /* =Link List
+    ----------------------------------------------- */
+    /*
+    .link-list,
+    .link-list ul,
+    .link-list li {
+      list-style: none;
+      padding-left: 0;
+      margin-left: 0;
+    }
+    */
+    .link-list a {
+      display: block;
+      color: inherit;
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      text-decoration: none;
+    }
+    .link-list li + li a {
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
   </style>
 </head>
 <body id="top">
@@ -359,11 +381,12 @@
       Irvine, California 92618
     </p>
     <ul>
-      <li><a href="/">Taxes &amp; Accounting</a></li>
-      <li><a href="/international">International Services</a></li>
-      <li><a href="/start-business">Starting a New Business</a></li>
-      <li><a href="/news">News</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="/about">About</a></li>
+      <li><a href="/services">Services</a></li>
+      <li><a href="/start-business">Starting a new business</a></li>
+      <li><a href="/news">News</a></li>
+      <li><a href="/contact">Contact</a></li>
     </ul>
 
     <h2>Contact us for a free consultation</h2>

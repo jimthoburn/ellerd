@@ -2,12 +2,18 @@
 title: We can help with your taxes and accounting
 ---
 
+Ellerd’s goal is to give you what you need to run your business without the stress and complications of taxation issues and accounting problems.
+
+<ol class="link-list">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/services">Services</a></li>
+  <li><a href="/contact">Contact Us</a></li>
+</ol>
+
 <figure>
   <img src="/uploads/1040.png" width="500" alt="1040 U.S. Individual Tax Return" />
   <p>We can help with your <a href="https://www.irs.gov/uac/about-form-1040">1040 U.S. Individual Tax Return</a></p>
 </figure>
-
-Ellerd’s goal is to give you what you need to run your business without the stress and complications of taxation issues and accounting problems.
 
 ## Get your life back on track.
 

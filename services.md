@@ -1,6 +1,22 @@
 ---
-title: International Services
+title: Our Services
 ---
+
+*   Tax Preparation & Planning.
+*   Payroll Services & Payroll Tax reporting
+*   Sales Tax & Property Tax Reporting
+*   New Business Start Up Procedures and Consulting Services
+*   Accounting & Bookkeeping
+*   Full Charge Bookkeeping Services including custom programs
+*   Full Payroll Services and 1099 Filings
+*   Reconstruction and Clean Up of Financial Records for Prior Years
+*   Tax Preparation and Planning
+*   Internal Business Audits for Forensic and Litigation Needs
+*   Payroll Audits and Review of Government Report Filings
+*   Federal and State Tax and Compliance Filings
+*   Quickbooks and Other Accounting Software Training and Support Assistance
+
+## International Services
 
 We also provide our tax preparation & accounting services to international clients that have business interests here in the United States and are required to file local, state and/or federal tax returns and compliance returns. We provide accounting, bookkeeping, tax and governmental filing services.
 
