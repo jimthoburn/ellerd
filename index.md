@@ -5,10 +5,11 @@ title: We can help with your taxes and accounting
 Ellerd’s goal is to give you what you need to run your business without the stress and complications of taxation issues and accounting problems.
 
 1.  [About](/about)
-2.  [Our Services](/services)
+2.  [Our services](/services)
 3.  [Starting a new business](/start-business)
 4.  [News](/news)
-5.  [Contact Us](#contact)
+5.  [Contact](#contact)
+5.  [Visit us](#visit)
 
 <figure>
   <img src="/uploads/1040.png" width="500" alt="1040 U.S. Individual Tax Return" />
@@ -33,10 +34,11 @@ We can help. Our experienced tax professionals will deal with the IRS, so you do
 
 [Get Started Today](#contact)
 
-## We’ve been doing this for more than 25 years
+## We’ve been doing this for more than 25 years.
 
 We understand the problems and challenges of business ownership.  
-**We’ve been there**.
+
+**We’ve been there.**
 
 The problems facing you–compliance, government reporting, taxation–are easily resolved if you have access to the right resources.
 
@@ -46,7 +48,7 @@ You’re an expert in your field, and you shouldn’t have to spend your valuabl
 
 We know you’d rather be doing the thing you love. So leave the pressure and responsibilty of government compliance issues and reporting problems to us.
 
-## Why Us?
+## Why us?
 
 We can fill out the forms, prepare the taxes, do the payrolls, we can also help you save money on all those unseen costs related to payroll taxes, workers’ compensation insurance, inventory and manufacturing allocations, sales taxes, property taxes and much more.
 

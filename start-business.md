@@ -28,7 +28,7 @@ Once you have gone through the initial idea process you need to decide what type
 
 This section highlights the principal differences between format and registration requirements in California of the following types of business entities:
 
-## Useful Links for people starting a business.
+## Useful links for people starting a business.
 
 [Apply for a Federal Employer Identification Number](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
 
