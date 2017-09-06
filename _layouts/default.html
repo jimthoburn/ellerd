@@ -165,27 +165,149 @@
       margin-bottom: 0;
     }
 
-    figure {
+    figure img {
+      box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.25);
+    }
+
+    main figure {
       padding: 0;
       margin: 1.5em 0;
       max-width: 500px;
     }
-    figure img {
+    main figure img {
       width: 100%;
       height: auto;
       max-width: 20em;
-      box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.25);
     }
-    figure p {
+    main figure p {
       font-size: 0.75em;
       font-style: italic;
     }
     @media (min-width: 60em) {
-      figure {
+      main figure {
         float: right;
         margin: 1.5em;
       }
     }
+
+    footer figure {
+      font-size: 0.875em;
+      margin-top: 1.45em;
+      position: relative;
+      max-width: 40em;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    @media (min-width: 45em) {
+        footer figure {
+            margin-top: 2.9em;
+            margin-bottom: 2.9em;
+        }
+    }
+
+    footer figure > div {
+        background: rgb(204, 206, 204);
+        position: relative;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    footer figure > div img {
+        display: block;
+        width: 100%;
+    }
+
+    footer figure > div[data-aspect-ratio] a, figure > div[data-aspect-ratio] img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-width: 0;
+        min-height: 0;
+        max-width: none;
+    }
+
+    footer figure > div[data-aspect-ratio] a {
+        height: 100%;
+    }
+
+    footer figure > div img {
+        position: relative;
+    }
+
+    footer figure > div[data-aspect-ratio="1/1"] {
+        padding-bottom: 100%;
+    }
+
+    @media (min-aspect-ratio: 1 / 1) {
+        footer figure > div[data-aspect-ratio-landscape="2/1"] {
+            padding-bottom: 50%;
+        }
+    }
+
+
+    a.has-icon {
+        display: block;
+        position: relative;
+        text-decoration: none
+    }
+
+    figure > div[data-aspect-ratio] a.has-icon {
+        position: absolute;
+    }
+
+    .has-icon .icon {
+        position: absolute;
+        top: 0.725em;
+        right: 0.725em;
+        background: white;
+        background: rgba(255, 255, 255, 0.75);
+        padding: 0.35em 0.4em 0em 0.4em;
+        border-radius: 0.3125em;
+        color: black;
+        transition: background-color 0.2s;
+        font-size: 1.5em;
+    }
+
+    .has-icon .icon.play {
+        top: 50%;
+        left: 50%;
+        right: auto;
+        padding: 0.725em 1.45em 0.3625em 1.45em;
+        margin-top: -1.0875em;
+        margin-left: -1.95em;
+    }
+
+    .has-icon:hover .icon, .has-icon:active .icon, .has-icon:focus .icon {
+        background-color: white
+    }
+
+    .has-icon .icon {
+        vertical-align: middle
+    }
+
+    .has-icon svg {
+        width: 1em;
+        height: 1em
+    }
+
+    .has-icon svg polygon {
+        fill: currentColor
+    }
+
+    .has-icon .credit {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: white;
+        background: rgba(255, 255, 255, 0.75);
+        color: black;
+        font-size: 0.75em;
+        padding: 0.25em 0.5em;
+    }
+
+
 
     header h1 {
       margin-bottom: 0;
@@ -256,12 +378,6 @@
       box-sizing: border-box;
 
       position: relative;
-    }
-    footer ul,
-    footer li {
-      list-style: none;
-      margin-left: 0;
-      padding-left: 0;
     }
     footer a {
       color: inherit;
@@ -380,18 +496,13 @@
   <footer id="menu">
 
     <h2><a href="/">Ellerd Business Services</a></h2>
-    <p>
-      48 Tesla<br />
-      Irvine, California 92618
-    </p>
-    <ul>
-      <li><a href="/">Home</a></li>
+    <ol class="link-list">
       <li><a href="/about">About</a></li>
       <li><a href="/services">Our Services</a></li>
       <li><a href="/start-business">Starting a new business</a></li>
       <li><a href="/news">News</a></li>
-      <li><a href="/contact">Contact</a></li>
-    </ul>
+      <li><a href="/contact">Contact Us</a></li>
+    </ol>
 
     <h2>Contact us for a free consultation</h2>
 
@@ -405,6 +516,36 @@
       <dt>FAX</dt>
       <dd>(714) 825-0578</dd>
     </dl>
+
+    <h2>Visit us</h2>
+    <p>
+      Ellerd Business Services<br />
+      48 Tesla<br />
+      Irvine, California 92618
+    </p>
+    <figure>
+      <div data-aspect-ratio-landscape="2/1" data-aspect-ratio="1/1">
+        <a href="https://www.google.com/maps/place/48+Tesla,+Irvine,+CA+92618/@33.6321248,-117.7391603,17.74z/data=!4m5!3m4!1s0x80dce7df48cff8e1:0x6ba66e19ffee3ee7!8m2!3d33.6321852!4d-117.7382229" target="_blank" class="has-icon">
+
+        <picture>
+          <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=33.6321248,-117.7391603&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C33.6321248,-117.7391603&amp;zoom=13&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=33.6321248,-117.7391603&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C33.6321248,-117.7391603&amp;zoom=13&amp;size=640x320&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw" media="(min-aspect-ratio: 1/1)"/>
+          <source srcset="https://maps.googleapis.com/maps/api/staticmap?center=33.6321248,-117.7391603&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C33.6321248,-117.7391603&amp;zoom=13&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 640w, https://maps.googleapis.com/maps/api/staticmap?center=33.6321248,-117.7391603&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C33.6321248,-117.7391603&amp;zoom=13&amp;size=640x640&amp;scale=2&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4 1280w" sizes="100vw"/>
+          <img src="https://maps.googleapis.com/maps/api/staticmap?center=33.6321248,-117.7391603&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C33.6321248,-117.7391603&amp;zoom=13&amp;size=640x640&amp;key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4" width="1000" alt="Ellerd Business Services on Google Maps"/>
+        </picture>
+        <span class="icon">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+          <path fill="black" d="M17.9,2.4c-0.1-0.2-0.2-0.3-0.4-0.4C17.5,2,17.4,2,17.3,2h-5.8c-0.4,0-0.7,0.3-0.7,0.7s0.3,0.7,0.7,0.7h4.1
+          L10.9,8c-0.3,0.3-0.3,0.7,0,1c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2l4.6-4.6v4.1c0,0.4,0.3,0.7,0.7,0.7
+          c0.4,0,0.7-0.3,0.7-0.7V2.7C18,2.6,18,2.5,17.9,2.4z"/>
+          <path fill="black" d="M9.1,10.9c-0.3-0.3-0.7-0.3-1,0l-4.6,4.6v-4.1c0-0.4-0.3-0.7-0.7-0.7S2,11.1,2,11.5v5.8
+          c0,0.1,0,0.2,0.1,0.3c0.1,0.2,0.2,0.3,0.4,0.4C2.5,18,2.6,18,2.7,18h5.8c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7H4.5L9.1,12
+          C9.3,11.7,9.3,11.2,9.1,10.9z"/>
+          </svg>
+        </span>
+        <span class="credit">Ellerd Business Services on Google Maps</span>
+        </a>
+      </div>
+    </figure>
 
     <p class="action"><a href="">Back to top</a></p>
   </footer>
