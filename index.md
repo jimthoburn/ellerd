@@ -4,13 +4,11 @@ title: We can help with your taxes and accounting
 
 Ellerd’s goal is to give you what you need to run your business without the stress and complications of taxation issues and accounting problems.
 
-<ol class="link-list">
-  <li><a href="/about">About</a></li>
-  <li><a href="/services">Our Services</a></li>
-  <li><a href="/start-business">Starting a new business</a></li>
-  <li><a href="/news">News</a></li>
-  <li><a href="#contact">Contact Us</a></li>
-</ol>
+1.  [About](/about)
+2.  [Our Services](/services)
+3.  [Starting a new business](/start-business)
+4.  [News](/news)
+5.  [Contact Us](#contact)
 
 <figure>
   <img src="/uploads/1040.png" width="500" alt="1040 U.S. Individual Tax Return" />
