@@ -9,7 +9,7 @@ Ellerd’s goal is to give you what you need to run your business without the st
   <li><a href="/services">Our Services</a></li>
   <li><a href="/start-business">Starting a new business</a></li>
   <li><a href="/news">News</a></li>
-  <li><a href="/contact">Contact Us</a></li>
+  <li><a href="#contact">Contact Us</a></li>
 </ol>
 
 <figure>
@@ -21,7 +21,7 @@ Ellerd’s goal is to give you what you need to run your business without the st
 
 If you own a small business and haven’t kept up your bookkeeping, don’t worry. We can help you. We’ll prepare your bookkeeping for the year, prepare a full Schedule C, as well as your personal income tax return. Then we’ll help you set up an easy system that allows you to keep your books in tip-top shape next year.
 
-If you’d like to receive more information about our Tax Preparation Service, please [contact us](/contact/).
+If you’d like to receive more information about our Tax Preparation Service, please [contact us](#contact).
 
 ## Take the first step.
 
@@ -33,7 +33,7 @@ We can help. Our experienced tax professionals will deal with the IRS, so you do
 *   Do you just need answers to your tax questions?
 *   Take the first step.
 
-[Get Started Today](/contact/)
+[Get Started Today](#contact)
 
 ## We’ve been doing this for more than 25 years
 
@@ -58,4 +58,4 @@ And it’s help you can afford. We’re competitively priced. Consultations by p
 
 Call us at (800) 445-1040.
 
-[Contact us](/contact/) for a free consultation.
+[Contact us](#contact) for a free consultation.
