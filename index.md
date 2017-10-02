@@ -6,7 +6,7 @@ Ellerd’s goal is to give you what you need to run your business without the st
 
 1.  [About](/about)
 2.  [Our services](/services)
-3.  [Starting a new business](/start-business)
+3.  [Starting a new business in California](/start-business)
 4.  [News](/news)
 5.  [Contact](#contact)
 5.  [Visit us](#visit)
