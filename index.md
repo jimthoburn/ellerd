@@ -28,8 +28,8 @@ We can help. Our experienced tax professionals will deal with the IRS, so you do
 
 *   Are tax debts and penalties adding up faster than you can pay?
 *   Does it seem there is no end to your tax work?
-*   Does tax debt affecting your financial life?
-*   Do you just need answers to your tax questions?
+*   Is tax debt affecting your financial life?
+*   Or do you just need answers to your tax questions?
 *   Take the first step.
 
 [Get Started Today](#contact)
