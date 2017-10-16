@@ -56,6 +56,6 @@ We can fill out the forms, prepare the taxes, do the payrolls, we can also help 
 
 And it’s help you can afford. We’re competitively priced. Consultations by phone are almost always free and our staff is ready to assist you.
 
-Call us at (800) 445-1040.
+Call us at 800-445-1040.
 
 [Contact us](#contact) for a free consultation.
