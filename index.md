@@ -2,6 +2,8 @@
 title: We can help with your taxes and accounting
 ---
 
+<meta name="google-site-verification" content="c7qTSRbji4lud140UGLdMfoL0uT1qkTmm7grK_WXwv0" />
+
 Ellerd’s goal is to give you what you need to run your business without the stress and complications of taxation issues and accounting problems.
 
 1.  [About](/about)
