@@ -2,6 +2,11 @@
 title: About Us
 ---
 
+<figure>
+  <img src="/uploads/michael-marie.jpg" width="500" alt="Marie and Michael" />
+  <p>Marie and Michael</p>
+</figure>
+
 ## Michael Ellerd Dobbs – President
 
 Michael started his career in the hotel business as accountant and tax consultant. He quickly achieved success, and within a few years was Chief Financial Officer of a large hotel corporation in Southern California. In 1983 he formed Ellerd Business Services, an accounting and tax service in Orange County, California, serving individual and corporate clients in both the U.S. and Canada. Since then, his business has expanded to include all forms of financial services with a focus on bottom line performance and tax liability management. Michael has been supporting individuals and businesses on a wide range of tax and accounting issues for more than 25 years.
