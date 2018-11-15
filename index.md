@@ -9,9 +9,9 @@ Ellerd’s goal is to give you what you need to run your business without the st
 3.  [Starting a new business in California](/start-business)
 4.  [News](/news)
 5.  [Contact](#contact)
-<!--
+{% comment %}
 6.  [Visit us](#visit)
--->
+{% endcomment %}
 
 <figure>
   <img src="/uploads/1040.png" width="500" alt="1040 U.S. Individual Tax Return" />
